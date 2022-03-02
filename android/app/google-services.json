@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55898544238",
+    "firebase_url": "https://modutour-fd402-default-rtdb.firebaseio.com",
+    "project_id": "modutour-fd402",
+    "storage_bucket": "modutour-fd402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55898544238:android:6dd6464377beb8358dae7f",
+        "android_client_info": {
+          "package_name": "com.sparrowdn.modu_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55898544238-hlh44ldg0p8l79nm9bp314em22vmjuio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeigQCySRhOJNKUC0pqt0mNZVO0ra3Olw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55898544238-hlh44ldg0p8l79nm9bp314em22vmjuio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
